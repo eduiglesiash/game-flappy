@@ -1,0 +1,8 @@
+
+.idea/game-flappy.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
+node_modules/
+package-lock.json
+

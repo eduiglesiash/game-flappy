@@ -1,0 +1,28 @@
+{
+  "name": "game-flappy",
+  "version": "1.0.0",
+  "description": "Practica de creación del juego de Flappy Bird",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduiglesiash/game-flappy.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS3",
+    "JavaScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduiglesiash/game-flappy/issues"
+  },
+  "homepage": "https://github.com/eduiglesiash/game-flappy#readme",
+  "dependencies": {
+    "phaser-ce": "^2.8.5"
+  }
+}
